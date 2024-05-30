@@ -1,4 +1,9 @@
 # Bank-Loan-Analysis-Dashboard-Finance-Domain
+<br>
+
+![Screenshot 2024-05-30 210336](https://github.com/Manish7272/Bank-Loan-Analysis-Dashboard--Finance-Domain/assets/71213166/60a104a9-bce7-49fa-a226-377c4409ac18)
+
+<br>
 
 # Project Overview:
 - This project analyzes loan trends, regional patterns, and the impact of employment duration on loans. It also distinguishes between good and bad loans. 
