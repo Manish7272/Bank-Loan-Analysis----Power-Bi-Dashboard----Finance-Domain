@@ -9,30 +9,14 @@
 
 <br>
 
-# Dashboard :
+# Screenshots of the Dashboard :
 ![Screenshot 2024-06-02 154143](https://github.com/Manish7272/Bank-Loan-Analysis----Power-Bi-Dashboard----Finance-Domain/assets/71213166/81e09b93-1d92-4c7b-8a4e-3812d05dbc9d)
 
 ![Screenshot 2024-06-02 153934](https://github.com/Manish7272/Bank-Loan-Analysis----Power-Bi-Dashboard----Finance-Domain/assets/71213166/51f77ddc-1bed-46b3-bc91-35f3cbfc5e7a)
 
 ![Screenshot 2024-06-02 153919](https://github.com/Manish7272/Bank-Loan-Analysis----Power-Bi-Dashboard----Finance-Domain/assets/71213166/3f1b0497-4d97-4eb7-8b0e-d1d652a8efa0)
 
-
-
-# KPI's:
-- Total Loan Applications:
-  - Compute the total number of loan applications received during a specific time period. Monitor changes on a month-to-date (MTD) and month-over-month (MoM) basis.
-
-- Total Funded Amount:
-  - Comprehend the total amount of funds disbursed as loans. Illustrate MTD and MoM changes.
-
-- Total Amount Received: Track the total amount received from borrowers to assess the bank's cash flow from repayments. Analyze MTD and MoM changes.
-
-- Average Interest Rate:
-  - Calculate the average interest rate across all loans. Monitor MTD and MoM variations to gain insights into the overall cost of the lending portfolio.
-
-- Average Debt-to-Income Ratio (DTI):
-  - Evaluate the average DTI for borrowers to gauge their financial health. Compute average DTI for all loans and analyze MTD and MoM changes.
-
+<br>
   
 # Good Loan vs. Bad Loan KPIs:
 - Good Loan Application Percentage: Calculate the percentage of loan applications classified as good loans. This category encompasses loans with a fully paid status.
@@ -54,32 +38,7 @@ The dashboard will present crucial loan-related metrics and trends using various
 - Funded Loan by Employee Length: Use a bar chart to demonstrate the total funded loan amount by employee length.
 - Total Aoan Amount by Purpose: Use a column chart to illustrate the total funded amount by purpose.
 
-
-# Key Performance Indicators (KPIs) in the Report:
-1.Total Loan Applications:
-  - 36.6k total applications
-  - MTD: 4.3k applications
-  - MoM Growth: +6.91%
-  
-2.Total Funded Amount:
-  - $435.8 million total funding
-  - MTD: $54.0 million
-  - MoM Changes: +13.06%
-  
-3.Total Received Amount:
-  - $473.1 million total received
-  - MTD: $58.1 million
-  - MoM Changes: +15.84%
-
-4.Average Interest Rate:
-  - Overall: 12.05%
-  - MTD: 12.36%
-  - MoM: +3.47%
-
-5.Average Debt-to-Income Ratio (DTI):
-  - DTI: 13.33%
-  - MTD: 13.67%
-  - MoM: +2.73%
+<br>
 
 ### Grid View:
 In addition, a detailed table breaks down loan types, funded amounts, total applications, and received amounts, providing specific insights into different loan statuses.
