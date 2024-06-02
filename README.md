@@ -65,7 +65,7 @@ In addition, a detailed table breaks down loan types, funded amounts, total appl
 ### Detailed Loan Information
 - A table provides comprehensive details for each loan, including loan ID, customer name, gender, state, funded amount, received amount, grade, subgrade, and purpose. This information enables a granular understanding of the bank's lending portfolio.
 
-# FUNCTIONALITIES I used :
+# Functionalities I used :
 
 ![Screenshot 2024-06-01 155108](https://github.com/Manish7272/Bank-Loan-Analysis----Power-Bi-Dashboard----Finance-Domain/assets/71213166/57ba5d8a-6926-4cbd-b89d-9845103805d5)
 
