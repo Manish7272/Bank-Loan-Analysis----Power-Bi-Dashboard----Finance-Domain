@@ -1,14 +1,21 @@
 # Bank-Loan-Analysis-Dashboard-Finance-Domain
-<br>
 
-![Screenshot 2024-05-30 210336](https://github.com/Manish7272/Bank-Loan-Analysis-Dashboard--Finance-Domain/assets/71213166/60a104a9-bce7-49fa-a226-377c4409ac18)
-
-<br>
 
 # Project Overview:
 - This project analyzes loan trends, regional patterns, and the impact of employment duration on loans. It also distinguishes between good and bad loans. 
 - The dataset includes detailed loan information for 2021, with 38,576 rows and 24 columns.
 - Our goal is to enable data-driven decision-making for loan approvals and risk assessment. By developing a comprehensive reporting system and identifying key performance indicators, we aim to provide insights that will optimize the loan approval process and minimize risks.
+
+
+<br>
+
+# Dashboard :
+![Screenshot 2024-06-02 154143](https://github.com/Manish7272/Bank-Loan-Analysis----Power-Bi-Dashboard----Finance-Domain/assets/71213166/81e09b93-1d92-4c7b-8a4e-3812d05dbc9d)
+
+![Screenshot 2024-06-02 153934](https://github.com/Manish7272/Bank-Loan-Analysis----Power-Bi-Dashboard----Finance-Domain/assets/71213166/51f77ddc-1bed-46b3-bc91-35f3cbfc5e7a)
+
+![Screenshot 2024-06-02 153919](https://github.com/Manish7272/Bank-Loan-Analysis----Power-Bi-Dashboard----Finance-Domain/assets/71213166/3f1b0497-4d97-4eb7-8b0e-d1d652a8efa0)
+
 
 
 # KPI's:
